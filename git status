@@ -1,0 +1,23 @@
+[33mcommit a4cbd1d3a2fe6a24c2b44ac9a687e1ba4a1601ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MatheusBack-endDev <matheusmdevops@gmail.com>
+Date:   Thu Jul 17 12:52:45 2025 -0300
+
+    cria uma entidade no banco de dados ccom o funcionarioModel
+
+[33mcommit 407d0639d4364292241bc22721f8e053569994b7[m
+Author: MatheusBack-endDev <matheusmdevops@gmail.com>
+Date:   Mon Jul 7 20:41:46 2025 -0300
+
+    Criado a Controller
+
+[33mcommit a958a7c628db28423197551300d9a600ec4fc158[m
+Author: MatheusBack-endDev <matheusmdevops@gmail.com>
+Date:   Tue Jul 1 21:07:57 2025 -0300
+
+    firt commit
+
+[33mcommit d12e645cd724b51cc40ae3b0b7b29b4e18427583[m
+Author: MatheusBack-endDev <162046085+MatheusBack-endDev@users.noreply.github.com>
+Date:   Tue Jul 1 21:03:10 2025 -0300
+
+    Initial commit
