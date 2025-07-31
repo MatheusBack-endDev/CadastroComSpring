@@ -19,8 +19,12 @@ public class FuncionarioModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+
     private String name;
+
+    @Column(unique = true)
     private String email;
+
     private int idade;
 
     // O funcionario vai ter uma unica tarefa

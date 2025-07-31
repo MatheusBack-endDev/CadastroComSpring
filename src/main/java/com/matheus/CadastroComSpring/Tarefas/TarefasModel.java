@@ -18,8 +18,11 @@ public class TarefasModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+
     private String name;
+
     private String dificuldade;
+
     // Tarefas pode ter varios funcionarios
     @OneToMany(mappedBy = "tarefasModel")
     private List<FuncionarioModel> funcionarioModelList;
